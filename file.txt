@@ -1,0 +1,18 @@
+champetsa ekkuva cheste
+
+enti extrala
+
+artham avuthunda
+enduku comment chestunnav akkada?
+u can revert code via command prompt or by usinh UI
+
+git add ?
+gt commit ?
+git push>
+git revert?
+git pull?
+git log -oneline
+
+git revert 
+Having 2.0 years of experience in automation testing using selenium webdriver.
+Having good knowledge in core java,Maven,Junit,TestNG,GIT.
